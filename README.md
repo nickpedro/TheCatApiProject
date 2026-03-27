@@ -26,7 +26,7 @@ API REST
 
 📦 Como executar o projeto
 Clone o repositório:
-git clone https://github.com/seu-usuario/TheCatApiProject.git
+git clone https://github.com/nickpedro/TheCatApiProject
 Abra no Visual Studio:
 TheCatApiProject.sln
 Execute o projeto:
